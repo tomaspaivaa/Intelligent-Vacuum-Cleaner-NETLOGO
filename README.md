@@ -135,5 +135,8 @@ The improved version introduces **knowledge sharing**, **memory of multiple char
 
 ![Improved Model Screenshot](images/improved_model.png)
 
+---
+
+*This work was completed as part of the “Introduction to Artificial Intelligence” course during the 2024/2025 academic year.*
 
 
