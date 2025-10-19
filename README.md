@@ -123,6 +123,8 @@ Additional (Improved Model only):
 | Cleaning Time | 20 |
 | Max Unloads | 10 |
 
+The experiments can be checked in the Excel [here](/Experiencias.xlsx).
+
 ## Screenshots
 
 ### Base Model
