@@ -139,6 +139,6 @@ The improved version introduces **knowledge sharing**, **memory of multiple char
 
 ---
 
-*This work was completed as part of the “Introduction to Artificial Intelligence” course during the 2024/2025 academic year.*
+*This work was completed as part of the “Introduction to Artificial Intelligence” course during the 2024/2025 academic year in a group of 2 members. (Grade: 10 out of 10)*
 
 
